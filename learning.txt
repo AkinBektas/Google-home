@@ -1,0 +1,6 @@
+Google home werkt met dialogflow.
+Utterences
+Intent gebruik je om een vraagstuk mee op te zetten, intents moet je daarnaast gaan categoriseren.
+Entities is een variable waar een waarde van zou kunnen veranderen, zoals een afstand naar een locatie.
+Fullfillment
+-	Webhook
